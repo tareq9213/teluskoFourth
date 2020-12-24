@@ -1,0 +1,1 @@
+this is the 4th video of telusko and here we use the static files and works with normal static files.
